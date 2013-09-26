@@ -29,3 +29,24 @@ http://riddle.pl/emcalc/
 -------------------------------------------------
 <link href="styles.css" type="text/css" rel="stylesheet">
 @import url("styles.css")
+
+----------------------------------------------------------------------
+browser support;
+contry base ,mobile devices
+gs.statcounter.com
+
+---------------------------------------
+css for all browser
+caniuse.com
+quicksmode.com
+
+----------------------
+reference.sitepoint.com/css
+
+devloper.mozilla.org/en/mozilla-css-support-card
+safari,opera
+
+-------------------------------------
+css compatibility and internet explorer
+-------------------------------------------------------
+http://www.positioniseverything.net/
